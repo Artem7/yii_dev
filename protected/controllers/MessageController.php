@@ -10,6 +10,10 @@ class MessageController extends Controller
 	public Function actionLog() {
 		$this->render('log');
 	}
+	
+	public function actionTest() {
+		$this->render('log');
+	}
 
 	public function actionDate() {
 		$theTime = date("D.M.j G:i:s T Y");
