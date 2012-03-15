@@ -1,0 +1,5 @@
+<?
+class MessageTest extends CTestCase {
+
+}
+?>

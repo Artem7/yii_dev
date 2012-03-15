@@ -1,0 +1,135 @@
+2012/02/01 22:43:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "guii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('guii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=guii
+---
+2012/02/01 22:43:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=gii
+---
+2012/02/01 22:43:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "giic".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('giic')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=giic
+---
+2012/02/01 22:43:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "giic".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('giic')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=giic
+---
+2012/02/01 22:43:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=gii
+---
+2012/02/01 22:43:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "giic".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('giic')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=giic
+---
+2012/02/01 22:43:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=gii
+---
+2012/02/01 22:43:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "guii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('guii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=guii
+---
+2012/02/01 22:43:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=gii
+---
+2012/02/01 22:43:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "giic".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('giic')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=giic
+---
+2012/02/01 22:43:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "giic".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('giic')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=giic
+---
+2012/02/01 22:44:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=gii
+---
+2012/02/01 22:44:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=gii
+---
+2012/02/01 23:28:34 [error] [exception.CException] exception 'CException' with message 'MessageController cannot find the requested view "bye".' in W:\html\star\framework\web\CController.php:879
+Stack trace:
+#0 W:\html\star\framework\web\CController.php(783): CController->renderPartial('bye', NULL, true)
+#1 W:\html\star\www\protected\controllers\MessageController.php(21): CController->render('bye')
+#2 W:\html\star\framework\web\actions\CInlineAction.php(50): MessageController->actionBye()
+#3 W:\html\star\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#4 W:\html\star\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#5 W:\html\star\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 W:\html\star\framework\web\CWebApplication.php(276): CController->run('bye')
+#7 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('message/bye')
+#8 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#9 W:\html\star\www\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/?r=message/bye
+---
+2012/02/02 00:03:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "giic".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('giic')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=giic
+---
+2012/02/02 00:03:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "guii".' in W:\html\star\framework\web\CWebApplication.php:280
+Stack trace:
+#0 W:\html\star\framework\web\CWebApplication.php(135): CWebApplication->runController('guii')
+#1 W:\html\star\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 W:\html\star\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=guii
+---
